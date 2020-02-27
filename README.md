@@ -18,7 +18,7 @@
 -      dbServerName = "localhost"; //ip SQL Server или имя SQL Server в формате serverName\instanceName
 -      dbPort = "5678";            //Порт, который прослушивает SQL Server
 -      dbUserName = "Alexander";   //Пользователь базы данных
--      dbPass = "12345";           //Пароль пользователя базв данных
+-      dbPass = "12345";           //Пароль пользователя базы данных
 
 ### Запуск 
-Класс с которого запускается программа - com.alexanderdem.**InitDB**
+Класс, с которого запускается программа - com.alexanderdem.**InitDB**
